@@ -11,6 +11,8 @@ func main(){
 	fmt.Println("normal:", n)
 
 	sort.Ints(n)
-
+        
+	return n
+	
 	fmt.Println("ascendente:", n)
 }
