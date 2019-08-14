@@ -10,7 +10,7 @@ func TestSort(t *testing.T){
   
   sorted := sortSlice(unsorted)
   
-  expect := []int{1,2,4,5,6,7}
+  expected := []int{1,2,4,5,6,7}
   
   c.Equal(expected, sorted)
 }
