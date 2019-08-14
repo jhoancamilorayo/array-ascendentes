@@ -12,7 +12,7 @@ func main(){
 
 	sort.Ints(n)
         
-	return n
+	var frontend []int = [1:4]
 	
-	fmt.Println("ascendente:", n)
+	fmt.Println("ascendente:", frontend)
 }
