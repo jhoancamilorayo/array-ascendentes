@@ -1,4 +1,4 @@
-package Test
+package testing
 
 import ("testing"
        "github.com/stretchr/testify/require")
