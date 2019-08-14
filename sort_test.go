@@ -1,4 +1,4 @@
-package testing
+package sort
 
 import ("testing"
        "github.com/stretchr/testify/require")
